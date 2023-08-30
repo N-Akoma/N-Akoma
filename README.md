@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @N-Akoma
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning angular.js
+- 👀 I’m interested in software development, data analysis, data science
 - 💞️ I’m looking to collaborate on jobs
 - 📫 How to reach me ..Gmail - yannsiyoung@gmail.com
 - mobile +234 810 443 6110
